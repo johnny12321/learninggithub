@@ -1,5 +1,5 @@
 ---
-title: My First MDX Post
+title: My 2nd MDX Post
 description: A simple example of an MDX file with a title, text, and link.
 ---
 
